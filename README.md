@@ -7,7 +7,7 @@ Boilerplate of [requirejs](http://requirejs.org/) and [mithril](http://mithril.j
 
 1. Use pathname module routing
 2. Single page application
-3. module dependencies
+3. module dependencies lazyload
 
 
 ## Usage
